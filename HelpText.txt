@@ -1,0 +1,70 @@
+How to play:
+
+You play against 3 computer opponents that bet and combine their cards
+as they see fit.
+
+> Bet the blind.
+> You get 3 cards. All of which can be combined.
+> Bet, check, or fold (forfeit your hand).
+> 2 community cards are placed onto the table.
+> 1 more card is given to everybody.
+> (Optional) combine cards in hand.
+> Bet, check, or fold.
+> 1 more community card is placed onto the table.
+> 1 more card is given to everybody.
+> (Optional) combine cards in hand.
+> Bet, check, or fold.
+> Engage in the Showdown.
+
+Blind bet:
+    Blind is the bet that the player to the immediate left of the dealer 
+    has to place. Everybody else has to place this bet to play the game.
+    The dealer is indicated by the dealer (D) graphic during the game.
+    
+Combination of cards:
+    These are the 5 cards you get during the course of the game that
+    can be combined to form more stronger cards.
+    Card combination can only be done once per round.
+
+    Card combination works the following way:
+        The player can use addition, subtraction,
+        division, and multiplication to combine 2 cards into 1.
+
+    Addition example:
+        The player has combination cards 3 of hearts, 2 of spades, 
+        5 of clubs, and queen of diamonds, the player could combine 
+        the 3 and the 2 to make a 5. The suit of the resulting 
+        5 would be the suit of the combination card with the larger 
+        value (since 3 is larger than 2, the 5 would become a 5 of hearts). 
+        Once combined, the player would have a 5 of hearts, 5 of clubs, 
+        and queen of diamonds for their combination cards.
+
+    Subtraction example: 
+        if the combination is 5 of spades subtract 2 of clubs, 
+        the combined card would be 3 of spades. The suit of the 
+        combined card in a subtracting combination would be of 
+        the card with the higher value. 
+
+    Multiplication example: 
+        3 of clubs, 2 of hearts, 1 of spades and 5 of diamonds 
+        are the combination cards available. The 3 and 2 are multiplied, 
+        giving 6 of clubs (suit is clubs because of the 3 of clubs, 
+        the higher value card). The 1 and 5 can be multiplied, 
+        resulting in a 5 of diamonds. 
+
+    Division example: 
+        7 of clubs, 5 of hearts, 2 of spades and 10 of diamonds 
+        are the combination cards available. 
+        The 10 is divided by the 2, resulting in a 5 of diamonds.  
+
+        Note: Division can only work if the resulting number is a 
+        whole number. You cannot get numbers with a decimal
+        and round them.
+
+Showdown:
+    The Showdown occurs at the very end of the game.
+    During the Showdown, every player's hand is revealed.
+    The player is then shown whether they won, tied, or lost
+    the game they were playing. If they won, they claimed the
+    money in the pot; if they tied, they got half of the pot;
+    if they lost, they got no money from the pot.
