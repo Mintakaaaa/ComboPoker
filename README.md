@@ -1,6 +1,8 @@
 # ComboPoker
 Texas Hold'em Poker with a twist; combine cards to enhance your hand!
 
+This is a high school project I completed in 2021. It is a python game.
+
 # Setup
 
 Clone this repository into a directory of your choosing.
